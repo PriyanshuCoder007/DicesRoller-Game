@@ -6,10 +6,10 @@
 ● The rules are simple. Two players will compete. The first player to reach 100 points or more is the winner<br>
 ● When it is your turn, you roll. If you get a Pig-Out or an Oinker/one, then you pass the pigs onto the next player.<br>
 ● If you get anything else, you may decide to roll again or pass the pigs.<br>
-● If you keep rolling again, you accumulate points to add to your bank but if you get a Pig-Out, then all your points accumulated this turn are nullified.<br>
+● If you keep rolling again, you accumulate points to add to your bank but if you get a Pig-Out, then all your points accumulated this turn are nullified.
 
 ## Technologies Used
-● HTML
-● CSS
-● Bootstrap
-● javascript
+● HTML<br>
+● CSS<br>
+● Bootstrap<br>
+● javascript<br>
