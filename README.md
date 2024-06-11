@@ -2,6 +2,9 @@
 ## Description
 => A web application that generates a number randomly and returns it with specific instructions. For instance if person one rolls a dice it will show the random number from 1 to 6 but if you are unfortunate and get a 1 you are awarded a 0 and the chance given to the second player:
 
+## Project Link
+[Play the Game]( https://priyanshucoder007.github.io/DicesRoller-Game/)
+
 ## Rules
 ● The rules are simple. Two players will compete. The first player to reach 100 points or more is the winner<br>
 ● When it is your turn, you roll. If you get a Pig-Out or an Oinker/one, then you pass the pigs onto the next player.<br>
