@@ -9,6 +9,10 @@
 ● If you keep rolling again,<br>
 ● you accumulate points to add to your bank but if you get a Pig-Out, then all your points accumulated this turn are nullified.
 
+## Responsiveness
+
+The app is built with Bootstrap, which helps make it work well on different devices like phones, tablets, and computers. This means the layout and buttons will adjust to fit the screen size you're using.
+
 ## Technologies Used
 ● HTML<br>
 ● CSS<br>
